@@ -37,13 +37,6 @@ quickly.</p>
 </div>
 </div>
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/home.jpg" alt="Home Window"/>
-  <img src="screenshots/about.jpg" alt="About Window"/>
-</p>
-
 ## Features
 
 - Add Folder Containing Images
